@@ -1,0 +1,77 @@
+  .naz{
+    text-align: center;
+    border-bottom: 6px solid black 
+    }
+ 
+body{
+    background-color:beige;
+}
+.sora1{
+    margin-top: 10px;
+    height: 400px;
+    width: 400px;
+     
+}
+.sora2{
+    margin-top: 10px;
+    height: 400px;
+    width: 400px;
+}
+.sora3{
+    margin-top: 10px;
+    height: 400px;
+    width: 400px;
+}
+h3{
+    color: aqua;
+}
+h2{
+    color: aquamarine;
+    text-align: center;
+    border: solid 1px black;
+    background-color: black;
+    border-radius: 50%
+
+    
+}
+ 
+ 
+.area{
+    display: flex;
+}
+h6{
+    color: grey;
+}
+li{
+    border-bottom: 1px;
+    list-style: none;
+    justify-content: center;
+    display: flex;
+    border-bottom: 1px;
+
+}
+.back-to-top-icon {
+    width: 1rem;
+    height: 1rem;
+    color: black;
+    justify-content: center;
+  }
+.wopty{
+    background-color: black;
+    width: 190px;
+    height: 60px;
+    border-style: outset;
+}
+.ow1{
+    border:1px solid gray ; 
+    padding: 5%;
+}
+.ow2{
+    border:1px solid gray ;
+    padding: 5%;
+}
+.ow3{
+    border:1px solid gray ;
+    padding: 5%;
+}
+  
