@@ -8,19 +8,19 @@ body{
 }
 .sora1{
     margin-top: 10px;
-    height: 400px;
-    width: 400px;
+    height: 300px;
+    width: 300px;
      
 }
 .sora2{
     margin-top: 10px;
-    height: 400px;
-    width: 400px;
+    height: 300px;
+    width: 300px;
 }
 .sora3{
     margin-top: 10px;
-    height: 400px;
-    width: 400px;
+    height: 300px ;
+    width:300px ;
 }
 h3{
     color: aqua;
@@ -38,6 +38,8 @@ h2{
  
 .area{
     display: flex;
+    gap: 5px;
+    justify-content: center;
 }
 h6{
     color: grey;
@@ -47,7 +49,7 @@ li{
     list-style: none;
     justify-content: center;
     display: flex;
-    border-bottom: 1px;
+     box-shadow: 10px rgb(23, 45, 66);
 
 }
 .back-to-top-icon {
@@ -55,23 +57,38 @@ li{
     height: 1rem;
     color: black;
     justify-content: center;
+    
   }
 .wopty{
     background-color: black;
     width: 190px;
     height: 60px;
     border-style: outset;
+    justify-content: center;
 }
 .ow1{
-    border:1px solid gray ; 
+    border:1px solid gray ;
+    box-shadow: 1px;
     padding: 5%;
+    height: 510px;
+    width: 300px;
 }
 .ow2{
     border:1px solid gray ;
     padding: 5%;
+    height:510px ;
+    width: 300px;
 }
 .ow3{
     border:1px solid gray ;
     padding: 5%;
+    height:510px ;
+    width: 300px;
 }
-  
+  footer{
+    justify-content: center;
+    background-position: center;
+  }
+  .popa{
+    display: flex;
+  }
